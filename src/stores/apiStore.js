@@ -10,7 +10,7 @@ const useData = create((set) => ({
         set({loading: true, error: null})
 
         try {
-            const { data } = await axios.get('/shopItems1.json');
+            const { data } = await axios.get(`${import.meta.env.BASE_URL}shopItems1.json`);
             set({items: data.slice(1,50), loading: false})
         } catch (error) {
             set({error: error.message || "Failed to fetch items", loading: false})

@@ -10,7 +10,7 @@ function CategoriesCard( {category_title, category_image} ) {
     const navigate = useNavigate()
 
     return (
-        <button onClick={() => navigate(`/categories/${encodeURIComponent(category_title)}`)}>
+        <button onClick={() => navigate(`/categories/${encodeURIComponent(category_title.toLowerCase())}`)}>
             <Card className="md:w-146 md:h-136 w-98 h-90 rounded-xl py-0 relative ">
                 <div 
                     className={`absolute bg-black opacity-0 ease-in-out duration-350 inset-0 ${showInfo && 'opacity-60'}`}>
