@@ -21,16 +21,16 @@ function Layout() {
 
 function App() {
   return (
-    <Router>
+    <Router basename='/react-shop-project/'>
       <Routes>
         <Route element={<Layout />}>
           <Route path='/' element={<Home />}></Route>
-          <Route path='/categories' >
+          <Route path='categories' >
             <Route index element={<Categories />}></Route>
-            <Route path="/categories/:category" element={<Category />}></Route>
+            <Route path=":category" element={<Category />}></Route>
           </Route>
-          <Route path='/browse' element={<Browse />}></Route>
-          <Route path='/items/:id' element={<Items />}></Route>
+          <Route path='browse' element={<Browse />}></Route>
+          <Route path='items/:id' element={<Items />}></Route>
         </Route>
       </Routes>
     </Router>
