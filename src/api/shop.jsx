@@ -1,16 +1,15 @@
 import axios from 'axios';
 
-export async function shopFetch(limit = 20) {
-    try{
-    const { data } = await axios.get(`https://dummyjson.com/products`,
-        {
-            params: {
-                limit: limit
-            }
-        }
-    )
-    return data.products}
-    catch(error) {
-        console.log(error.message)
-    }
+export async function categoriesFetch() {
+  try {
+    const { data } = await axios.get('/categories.json',{
+        params: { offset: 0, limit: 5 }
+    });
+
+    return data.slice(0,5);
+  } catch (error) {
+    console.log(error.message);
+  }
 }
+
+

@@ -1,14 +1,17 @@
-import { BrowserRouter as Router, Routes, Route, Outlet } from 'react-router';
+import { BrowserRouter as Router, Routes, Route, Outlet } from 'react-router-dom';
 import Home from './pages/Home';
 import Browse from './pages/Browse';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Categories from './pages/Categories';
+import Category from './pages/Category';
+import Items from './pages/Items';
 
 function Layout() {
   return (
     <>
       <Header />
-      <main className=''>
+      <main className='min-h-[80vh]'>
         <Outlet />
       </main>
       <Footer />
@@ -22,7 +25,12 @@ function App() {
       <Routes>
         <Route element={<Layout />}>
           <Route path='/' element={<Home />}></Route>
+          <Route path='/categories' >
+            <Route index element={<Categories />}></Route>
+            <Route path="/categories/:category" element={<Category />}></Route>
+          </Route>
           <Route path='/browse' element={<Browse />}></Route>
+          <Route path='/items/:id' element={<Items />}></Route>
         </Route>
       </Routes>
     </Router>

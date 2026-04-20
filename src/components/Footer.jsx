@@ -3,7 +3,7 @@ import Links  from '../components/Links'
 
 function Footer() {
   return (
-    <div className=" row my-6 md:my-8 flex flex-col md:flex-row justify-center items-center">
+    <div className=" row my-10 md:my-12 flex flex-col md:flex-row justify-center items-center">
         <Links />
         <div 
             className='bg-gray-300 w-[80vw] md:w-px h-px md:h-24 my-4 md:mx-16 md:my-0 shadow-xl'>

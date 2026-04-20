@@ -11,6 +11,12 @@
   font-family: "Roboto", sans-serif;
 }
 
+@utility scrollbar-hidden {
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
 body {
   @apply bg-amber-50;
   @apply overflow-x-clip;

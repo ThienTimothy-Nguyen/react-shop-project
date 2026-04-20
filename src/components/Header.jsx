@@ -22,7 +22,7 @@ function Header() {
                         showModal && <Modal setShowModal = {setShowModal} showModal={showModal} />
                     }
                 </div>
-                <Link to={'/browse'} className="hidden sm:inline text-[17px]">Explore</Link>
+                <Link to={'/categories'} className="hidden sm:inline text-[17px]">Explore</Link>
                 <Link className="hidden sm:inline text-[17px]">Login</Link>
                 <Link className="hidden sm:inline text-[17px]">Sign up</Link>
             </div>
