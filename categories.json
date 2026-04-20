@@ -1,0 +1,338 @@
+[
+{
+"id": 1,
+"name": "Clothes",
+"slug": "clothes-rewan",
+"image": "https://i.imgur.com/QkIa5tT.jpeg",
+"creationAt": "2026-04-09T20:17:43.000Z",
+"updatedAt": "2026-04-09T22:53:32.000Z"
+},
+{
+"id": 2,
+"name": "Electronics",
+"slug": "nuevo",
+"image": "https://i.imgur.com/ZANVnHE.jpeg",
+"creationAt": "2026-04-09T20:17:43.000Z",
+"updatedAt": "2026-04-09T23:40:40.000Z"
+},
+{
+"id": 3,
+"name": "Furniture",
+"slug": "furniture",
+"image": "https://i.imgur.com/Qphac99.jpeg",
+"creationAt": "2026-04-09T20:17:43.000Z",
+"updatedAt": "2026-04-09T20:17:43.000Z"
+},
+{
+"id": 4,
+"name": "Shoes",
+"slug": "shoes",
+"image": "https://i.imgur.com/qNOjJje.jpeg",
+"creationAt": "2026-04-09T20:17:43.000Z",
+"updatedAt": "2026-04-09T20:17:43.000Z"
+},
+{
+"id": 5,
+"name": "Miscellaneous",
+"slug": "miscellaneous",
+"image": "https://i.imgur.com/BG8J0Fj.jpg",
+"creationAt": "2026-04-09T20:17:43.000Z",
+"updatedAt": "2026-04-09T20:17:43.000Z"
+},
+{
+"id": 6,
+"name": "string",
+"slug": "string",
+"image": "https://api.escuelajs.co/api/v1/files/c083.jpeg",
+"creationAt": "2026-04-09T21:01:50.000Z",
+"updatedAt": "2026-04-09T22:54:04.000Z"
+},
+{
+"id": 7,
+"name": "category_B",
+"slug": "category-b",
+"image": "https://pravatar.cc/",
+"creationAt": "2026-04-09T21:04:14.000Z",
+"updatedAt": "2026-04-09T21:04:14.000Z"
+},
+{
+"id": 8,
+"name": "Baby iFUl2ISy",
+"slug": "baby-iful2isy",
+"image": "https://picsum.photos/seed/mAEv9ztGn/600/400",
+"creationAt": "2026-04-09T21:16:35.000Z",
+"updatedAt": "2026-04-09T21:16:35.000Z"
+},
+{
+"id": 9,
+"name": "Grocery o4yS1LDi",
+"slug": "grocery-o4ys1ldi",
+"image": "https://picsum.photos/seed/yIJBMEKhg/600/400",
+"creationAt": "2026-04-09T21:16:39.000Z",
+"updatedAt": "2026-04-09T21:16:40.000Z"
+},
+{
+"id": 10,
+"name": "Home A0zE1JY5",
+"slug": "home-a0ze1jy5",
+"image": "https://loremflickr.com/600/400?lock=7399364394401768",
+"creationAt": "2026-04-09T21:16:40.000Z",
+"updatedAt": "2026-04-09T21:16:40.000Z"
+},
+{
+"id": 11,
+"name": "Outdoors QB7aFYMQ",
+"slug": "outdoors-qb7afymq",
+"image": "https://picsum.photos/seed/EgLCs/600/400",
+"creationAt": "2026-04-09T21:16:42.000Z",
+"updatedAt": "2026-04-09T21:16:42.000Z"
+},
+{
+"id": 12,
+"name": "Clothing rIfztWy5",
+"slug": "clothing-rifztwy5",
+"image": "https://picsum.photos/seed/DLFhqzc/600/400",
+"creationAt": "2026-04-09T21:16:42.000Z",
+"updatedAt": "2026-04-09T21:16:42.000Z"
+},
+{
+"id": 13,
+"name": "Garden zbssq4sC",
+"slug": "garden-zbssq4sc",
+"image": "https://picsum.photos/seed/66DDD2MUTB/600/400",
+"creationAt": "2026-04-09T21:16:42.000Z",
+"updatedAt": "2026-04-09T21:16:42.000Z"
+},
+{
+"id": 15,
+"name": "Beauty xRA081zX",
+"slug": "beauty-xra081zx",
+"image": "https://loremflickr.com/600/400?lock=2800805260594989",
+"creationAt": "2026-04-09T21:16:45.000Z",
+"updatedAt": "2026-04-09T21:16:45.000Z"
+},
+{
+"id": 16,
+"name": "Baby SAbYLXjd",
+"slug": "baby-sabylxjd",
+"image": "https://loremflickr.com/600/400?lock=6666877297168127",
+"creationAt": "2026-04-09T21:17:06.000Z",
+"updatedAt": "2026-04-09T21:17:06.000Z"
+},
+{
+"id": 17,
+"name": "Music K8qBLbSj",
+"slug": "music-k8qblbsj",
+"image": "https://loremflickr.com/600/400?lock=8215609407434657",
+"creationAt": "2026-04-09T21:17:10.000Z",
+"updatedAt": "2026-04-09T21:17:10.000Z"
+},
+{
+"id": 19,
+"name": "Automotive u2Nu79na",
+"slug": "automotive-u2nu79na",
+"image": "https://picsum.photos/seed/6AXge8Pa/600/400",
+"creationAt": "2026-04-09T21:17:12.000Z",
+"updatedAt": "2026-04-09T21:17:12.000Z"
+},
+{
+"id": 20,
+"name": "Jewelry ecWPYfke",
+"slug": "jewelry-ecwpyfke",
+"image": "https://loremflickr.com/600/400?lock=5379350007084252",
+"creationAt": "2026-04-09T21:17:13.000Z",
+"updatedAt": "2026-04-09T21:17:13.000Z"
+},
+{
+"id": 21,
+"name": "Health ije93Oxr",
+"slug": "health-ije93oxr",
+"image": "https://loremflickr.com/600/400?lock=6870229046870865",
+"creationAt": "2026-04-09T21:17:13.000Z",
+"updatedAt": "2026-04-09T21:17:13.000Z"
+},
+{
+"id": 23,
+"name": "Kids 1CqeVXaq",
+"slug": "kids-1cqevxaq",
+"image": "https://picsum.photos/seed/unQ4BJx/600/400",
+"creationAt": "2026-04-09T21:17:15.000Z",
+"updatedAt": "2026-04-09T21:17:15.000Z"
+},
+{
+"id": 24,
+"name": "Music 1oWmPnV2",
+"slug": "music-1owmpnv2",
+"image": "https://picsum.photos/seed/R9S8Xp262h/600/400",
+"creationAt": "2026-04-09T21:35:51.000Z",
+"updatedAt": "2026-04-09T21:35:51.000Z"
+},
+{
+"id": 25,
+"name": "Grocery PcNx6SNB",
+"slug": "grocery-pcnx6snb",
+"image": "https://picsum.photos/seed/jUBZ9/600/400",
+"creationAt": "2026-04-09T21:35:55.000Z",
+"updatedAt": "2026-04-09T21:35:55.000Z"
+},
+{
+"id": 26,
+"name": "Health qkaI8PBc",
+"slug": "health-qkai8pbc",
+"image": "https://loremflickr.com/600/400?lock=1931682612684545",
+"creationAt": "2026-04-09T21:35:55.000Z",
+"updatedAt": "2026-04-09T21:35:55.000Z"
+},
+{
+"id": 27,
+"name": "Toys m1SqiAiW",
+"slug": "toys-m1sqiaiw",
+"image": "https://picsum.photos/seed/09p04iR/600/400",
+"creationAt": "2026-04-09T21:35:57.000Z",
+"updatedAt": "2026-04-09T21:35:57.000Z"
+},
+{
+"id": 28,
+"name": "Books tlxaJyL6",
+"slug": "books-tlxajyl6",
+"image": "https://loremflickr.com/600/400?lock=8488904027527676",
+"creationAt": "2026-04-09T21:35:58.000Z",
+"updatedAt": "2026-04-09T21:35:58.000Z"
+},
+{
+"id": 29,
+"name": "Music ld1ku6RV",
+"slug": "music-ld1ku6rv",
+"image": "https://picsum.photos/seed/LOLOtIW/600/400",
+"creationAt": "2026-04-09T21:35:58.000Z",
+"updatedAt": "2026-04-09T21:35:58.000Z"
+},
+{
+"id": 31,
+"name": "Beauty 3BOulHnk",
+"slug": "beauty-3boulhnk",
+"image": "https://loremflickr.com/600/400?lock=5177684359937912",
+"creationAt": "2026-04-09T21:36:01.000Z",
+"updatedAt": "2026-04-09T21:36:01.000Z"
+},
+{
+"id": 32,
+"name": "Movies 7fnmBY9f",
+"slug": "movies-7fnmby9f",
+"image": "https://picsum.photos/seed/zzpQqmDL/600/400",
+"creationAt": "2026-04-09T21:36:20.000Z",
+"updatedAt": "2026-04-09T21:36:20.000Z"
+},
+{
+"id": 33,
+"name": "Movies yw34fI1d",
+"slug": "movies-yw34fi1d",
+"image": "https://picsum.photos/seed/ZXtUb/600/400",
+"creationAt": "2026-04-09T21:36:24.000Z",
+"updatedAt": "2026-04-09T21:36:24.000Z"
+},
+{
+"id": 34,
+"name": "Outdoors P9F0UKg3",
+"slug": "outdoors-p9f0ukg3",
+"image": "https://picsum.photos/seed/LWV1e/600/400",
+"creationAt": "2026-04-09T21:36:24.000Z",
+"updatedAt": "2026-04-09T21:36:24.000Z"
+},
+{
+"id": 35,
+"name": "Tools 6zVw29jH",
+"slug": "tools-6zvw29jh",
+"image": "https://picsum.photos/seed/nok0t/600/400",
+"creationAt": "2026-04-09T21:36:26.000Z",
+"updatedAt": "2026-04-09T21:36:26.000Z"
+},
+{
+"id": 36,
+"name": "Industrial WslfX2NW",
+"slug": "industrial-wslfx2nw",
+"image": "https://picsum.photos/seed/GCCLz/600/400",
+"creationAt": "2026-04-09T21:36:26.000Z",
+"updatedAt": "2026-04-09T21:36:26.000Z"
+},
+{
+"id": 37,
+"name": "Beauty N0CWI7C0",
+"slug": "beauty-n0cwi7c0",
+"image": "https://loremflickr.com/600/400?lock=4428022866082037",
+"creationAt": "2026-04-09T21:36:26.000Z",
+"updatedAt": "2026-04-09T21:36:26.000Z"
+},
+{
+"id": 39,
+"name": "Kids E3mAUEli",
+"slug": "kids-e3maueli",
+"image": "https://loremflickr.com/600/400?lock=7691908885611945",
+"creationAt": "2026-04-09T21:36:29.000Z",
+"updatedAt": "2026-04-09T21:36:29.000Z"
+},
+{
+"id": 40,
+"name": "Garden kyyElP7e",
+"slug": "garden-kyyelp7e",
+"image": "https://loremflickr.com/600/400?lock=2889087185055118",
+"creationAt": "2026-04-09T21:38:07.000Z",
+"updatedAt": "2026-04-09T21:38:07.000Z"
+},
+{
+"id": 41,
+"name": "Toys ozxKFeJn",
+"slug": "toys-ozxkfejn",
+"image": "https://picsum.photos/seed/LbVlqFXHLw/600/400",
+"creationAt": "2026-04-09T21:38:11.000Z",
+"updatedAt": "2026-04-09T21:38:11.000Z"
+},
+{
+"id": 42,
+"name": "Shoes RHkDdqyS",
+"slug": "shoes-rhkddqys",
+"image": "https://loremflickr.com/600/400?lock=3075304175638467",
+"creationAt": "2026-04-09T21:38:12.000Z",
+"updatedAt": "2026-04-09T21:38:12.000Z"
+},
+{
+"id": 43,
+"name": "Outdoors sJCkTyFN",
+"slug": "outdoors-sjcktyfn",
+"image": "https://picsum.photos/seed/AdiBsT/600/400",
+"creationAt": "2026-04-09T21:38:13.000Z",
+"updatedAt": "2026-04-09T21:38:13.000Z"
+},
+{
+"id": 44,
+"name": "Books SINodQ7J",
+"slug": "books-sinodq7j",
+"image": "https://picsum.photos/seed/WXQMHtShAf/600/400",
+"creationAt": "2026-04-09T21:38:14.000Z",
+"updatedAt": "2026-04-09T21:38:14.000Z"
+},
+{
+"id": 45,
+"name": "Automotive RG8Auu9M",
+"slug": "automotive-rg8auu9m",
+"image": "https://loremflickr.com/600/400?lock=933739521665061",
+"creationAt": "2026-04-09T21:38:14.000Z",
+"updatedAt": "2026-04-09T21:38:14.000Z"
+},
+{
+"id": 47,
+"name": "Automotive vZOzYxba",
+"slug": "automotive-vzozyxba",
+"image": "https://picsum.photos/seed/PLxLAs/600/400",
+"creationAt": "2026-04-09T21:38:17.000Z",
+"updatedAt": "2026-04-09T21:38:17.000Z"
+},
+{
+"id": 52,
+"name": "New category",
+"slug": "new-category",
+"image": "https://placehold.co/600x400",
+"creationAt": "2026-04-09T23:40:51.000Z",
+"updatedAt": "2026-04-09T23:40:51.000Z"
+}
+]

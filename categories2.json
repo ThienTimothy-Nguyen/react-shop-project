@@ -1,0 +1,58 @@
+[
+{
+"id": 1,
+"name": "vegetables",
+"slug": "vegetables",
+"image": "https://cdn.britannica.com/17/196817-159-9E487F15/vegetables.jpg",
+"creationAt": "2026-04-10T20:37:44.000Z",
+"updatedAt": "2026-04-11T05:12:50.000Z"
+},
+{
+"id": 2,
+"name": "fruit",
+"slug": "fruit",
+"image": "https://png.pngtree.com/png-clipart/20241109/original/pngtree-beautiful-various-fruits-item-and-healthy-clipart-png-image_16788969.png",
+"creationAt": "2026-04-10T20:37:44.000Z",
+"updatedAt": "2026-04-11T05:13:11.000Z"
+},
+{
+"id": 3,
+"name": "backrey",
+"slug": "backrey",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEmx2UNl2XE6DZZLJrZHGjXEiEtntW-BdKw&s",
+"creationAt": "2026-04-10T20:37:44.000Z",
+"updatedAt": "2026-04-11T05:13:38.000Z"
+},
+{
+"id": 4,
+"name": "snacks",
+"slug": "snacks",
+"image": "https://assets.aboutamazon.com/dims4/default/e2f1573/2147483647/strip/true/crop/1279x720+0+0/resize/1240x698!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F10%2F3c%2F5b7a5b74408b93c9af780b80f1f6%2Fbanner-snacks.jpg",
+"creationAt": "2026-04-10T20:37:44.000Z",
+"updatedAt": "2026-04-11T05:14:01.000Z"
+},
+{
+"id": 5,
+"name": "grains",
+"slug": "grains",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu6TLaS6YmtbMBla7zMjavwsHdGc8SUyqrYg&s",
+"creationAt": "2026-04-10T20:37:44.000Z",
+"updatedAt": "2026-04-11T05:15:26.000Z"
+},
+{
+"id": 6,
+"name": "personal care",
+"slug": "personal-care",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3scBLSe_1XLvi_61jVubYlYWsVGjlcAYgg&s",
+"creationAt": "2026-04-10T20:54:22.000Z",
+"updatedAt": "2026-04-11T05:14:31.000Z"
+},
+{
+"id": 21,
+"name": "masala",
+"slug": "masala",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMKjLnHoskVswoialcgGZsTV2MlouYJ8o7Q&s",
+"creationAt": "2026-04-11T03:48:27.000Z",
+"updatedAt": "2026-04-11T05:15:00.000Z"
+}
+]
