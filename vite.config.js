@@ -5,7 +5,7 @@ import path from "path";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/react-shop-project',
+  base: '/react-shop-project/',
   plugins: [
     react({babel: {
         plugins: ['babel-plugin-react-compiler'],
